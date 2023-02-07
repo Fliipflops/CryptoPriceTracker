@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vM3f2tKhRF4vYiRscJ8Vir235SiZ0v8weFaKsCYicKGlMnKJ7V50C9JVnBomwhsvo/hkiAf/I6m3pGndSxro0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnniem\\PersonalProjects\\CryptoTrackerConsoleApp\\CryptoTrackerConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnniem\\.nuget\\packages\\coingeckoasyncapi\\1.7.0\\coingeckoasyncapi.1.7.0.nupkg.sha512",
+    "C:\\Users\\johnniem\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

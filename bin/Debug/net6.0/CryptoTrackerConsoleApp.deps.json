@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CryptoTrackerConsoleApp/1.0.0": {
+        "dependencies": {
+          "CoinGeckoAsyncApi": "1.7.0"
+        },
+        "runtime": {
+          "CryptoTrackerConsoleApp.dll": {}
+        }
+      },
+      "CoinGeckoAsyncApi/1.7.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CoinGecko.dll": {
+            "assemblyVersion": "1.6.0.0",
+            "fileVersion": "1.6.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CryptoTrackerConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoinGeckoAsyncApi/1.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-canTFszN3T1nGhGbGYh138oOvEehqZ3z223VDDRzbBmP/ahiP89Bmeg6WfS4Jn5MSpaZdx1FFt6aulK+ENi3Sg==",
+      "path": "coingeckoasyncapi/1.7.0",
+      "hashPath": "coingeckoasyncapi.1.7.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    }
+  }
+}
